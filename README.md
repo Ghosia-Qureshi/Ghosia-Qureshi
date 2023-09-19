@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghosia Qureshi</h1>
 <h3 align="center">A passionate Data Analyst from Karachi</h3>
 
-<image align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<image align="right"alt="coding"width="400"src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.toptal.com%2Fpress-center%2Ffifth-scholarship-winner&psig=AOvVaw2P1AFlFlpwozw9PQ2uQqrD&ust=1695226269284000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjhh4aIt4EDFQAAAAAdAAAAABAK">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghosia-qureshi&label=Profile%20views&color=0e75b6&style=flat" alt="ghosia-qureshi" /> </p>
 
